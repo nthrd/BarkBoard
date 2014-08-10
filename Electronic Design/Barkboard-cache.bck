@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu 17 Jul 2014 06:25:10 PM CDT
+#
+$CMP Audio_HDR
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP SPDIF_IO
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+#End Doc Library
