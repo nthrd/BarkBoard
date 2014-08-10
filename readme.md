@@ -38,3 +38,4 @@ Each amplifier board is supplied with the differential analog output from the DA
 *  Pass-through Board: Pass the outputs of the DAC straight to the connection board.
 *  1W/channel amplifier board
 *  10W/channel amplifier board
+
