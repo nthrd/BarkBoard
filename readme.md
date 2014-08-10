@@ -1,14 +1,13 @@
 BarkBoard for BeagleBone Black
 ==============================
-==============================
 
 Overview
-========
+--------
 The BarkBoard is concept for a DSP and modular amplifier cape for the BeagleBone and BeagleBone Black. Leveraging an digital signal processor, a high powered ADC/DAC, radio tuner and optional bluetooth audio module in addition to the digital audio output of the BeagleBone, the BarkBoard will makes any custom audio solution simple to build. A modular connector board will provide the ability to interface with a variety of audio systems, such as OEM car stereo plugs, musical instruments or home theater systems. Individual ready-made or custom amplifier boards will allow you to determine how much power you want to put into each channel depending on your application.
 
 
 Form Factor
-===========
+-----------
 
 The BarkBoard is designed to fit inside a standard double-DIN enclosure used for many car-stereos. Add a GPS cape to this board and a car-navigation system is at your fingerprints. The modular connector board and amplifier boards are designed to be rear facing and are adaptable to a variety of audio systems. Some ideas include:
 *  Custom Android or Linux Car-Stereo
@@ -17,7 +16,7 @@ The BarkBoard is designed to fit inside a standard double-DIN enclosure used for
 *  Home Theater system
 
 Digital Signal Processing
-=========================
+-------------------------
 
 The power of the on board DSP combined with the ability to fully program the algorithms available on the board make the bark board a very versatile solution. Write your own algorithms or select from a variety of existing plugins to modify the digital audio signals as they flow from one source to another on the board, creating a custom sound tailored to your application. With the ability to load and configure software at boot or while running via the BeagleBoard's I2C, here are just a few ways you might utilize this chip.
 Mix digital Audio Signals
